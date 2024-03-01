@@ -1,6 +1,8 @@
 package com.raywenderlich.android.lab1.screens
 
+import androidx.annotation.StringRes
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
 import com.raywenderlich.android.lab1.router.BackButtonHandler
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
@@ -45,3 +47,16 @@ fun ListScreen(){
         FundamentalsRouter.navigateTo(Screen.Navigation)
     }
 }
+@Composable
+fun MyList(){
+    //TODO  add your code here
+}
+@Composable
+fun ListItem(bookCategory:BookCategory,modifier: Modifier = Modifier){
+    //TODO add your code here
+}
+data class BookCategory (
+    @StringRes
+    val categoryResourceId: Int,
+    val bookImageResources: List<Int>
+)
