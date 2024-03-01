@@ -22,5 +22,11 @@
     <string name="menu">menu</string>
     <string name="myComposeApp">MyComposeApp</string>
     <string name="Scaffold">Scaffold</string>
-
+    <string name="better_architecher_android">Усовершенствованная архитектура Android </string>
+    <string name="learn_Kotlin">Изучение Kotlin </string>
+    <string name="korutins_Kotlin">Корутины в Kotlin </string>
+    <string name="android">Android в Kotlin </string>
+    <string name="kotlin">Kotlin </string>
+    <string name="swift">swift</string>
+    <string name="ios">ios</string>
 </resources>
