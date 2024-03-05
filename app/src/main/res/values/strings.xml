@@ -29,4 +29,9 @@
     <string name="kotlin">Kotlin </string>
     <string name="swift">swift</string>
     <string name="ios">ios</string>
+    <string name="Scrolling">Scrolling</string>
+    <string name="list">list</string>
+    <string name="Grid">Grid</string>
+    <string name="aboutBooks">aboutBooks</string>
+
 </resources>
