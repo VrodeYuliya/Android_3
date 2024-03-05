@@ -33,5 +33,5 @@
     <string name="list">list</string>
     <string name="Grid">Grid</string>
     <string name="aboutBooks">aboutBooks</string>
-
+    <string name="grid_icon">grid_icon</string>
 </resources>
